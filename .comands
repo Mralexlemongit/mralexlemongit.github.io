@@ -1,0 +1,2 @@
+#Echar a andar el servidor
+bundle exec jekyll serve
