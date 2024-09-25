@@ -1,7 +1,4 @@
 # mralexlemongit.github.io
-First static page created with GitHub Pages and GitHub Actions.
-
----
 
 ## The Wonders of Working with AI as a Software Developer
 
@@ -11,15 +8,13 @@ As a software developer, integrating **Artificial Intelligence (AI)** into your 
 With AI, developers can automate mundane and repetitive tasks like testing, debugging, and code generation. This enables you to focus on the more creative and complex parts of the project.
 
 <div style="text-align:center;">
-    <img src="https://example.com/ai-automation.jpg" alt="AI Automation" width="600" />
+    <img src="https://multimedia-nivelics-prod.s3.amazonaws.com/multimediaStrapi/rparobotic_process_automation_business_technology_220873_15222_b37f3b48a3.jpg" alt="AI Automation" width="600" />
 </div>
 
 ### 2. Enhanced Problem Solving
 AI systems can assist in solving complex problems by providing recommendations and alternative solutions based on vast datasets. Tools like AI-assisted coding (e.g., GitHub Copilot) can help developers write better and more efficient code faster.
 
-```html
 <a href="https://copilot.github.com/" target="_blank">Learn more about GitHub Copilot</a>
-```
 
 ### 3. Improved Decision-Making
 By analyzing vast amounts of data, AI can help you make data-driven decisions when designing, developing, and optimizing software. This ensures better performance, scalability, and reliability.
@@ -29,9 +24,7 @@ By analyzing vast amounts of data, AI can help you make data-driven decisions wh
 ### 4. AI in Debugging and Code Reviews
 AI tools are getting better at identifying bugs, suggesting fixes, and even offering code optimizations. This speeds up the development cycle and ensures higher-quality code.
 
-```html
-<a href="https://example.com/ai-debugging-tools" target="_blank">Check out AI debugging tools</a>
-```
+<a href="https://medium.com/front-end-weekly/the-best-ai-tools-for-testing-and-debugging-your-web-applications-4ab1a9637d68" target="_blank">Check out AI debugging tools</a>
 
 ### 5. Real-Time Collaboration and Assistance
 AI-driven tools like natural language processing (NLP) can help teams collaborate in real-time, breaking language barriers and enhancing communication between international development teams.
@@ -45,9 +38,7 @@ As you embark on your journey to becoming proficient in AI, here are some key as
 ### 1. Stay Curious and Keep Learning
 AI is an ever-evolving field. Stay updated with the latest trends and tools by following relevant blogs, attending conferences, and participating in online courses.
 
-```html
 <a href="https://www.coursera.org/courses?query=artificial%20intelligence" target="_blank">Explore AI Courses on Coursera</a>
-```
 
 <div style="text-align:center;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPsTWAkLIDaz7Lpu2MKQNxepn4kaEShknm9g&s" alt="Learning AI" width="600" /> </div>
 
@@ -63,9 +54,7 @@ Different projects require different tools. Be mindful of selecting the right AI
 ### 4. Ethics in AI
 With great power comes great responsibility. AI can have ethical implications, so it's important to consider privacy, bias, and fairness when developing AI-powered applications.
 
-```html
 <a href="https://ai.google/responsibilities/" target="_blank">Read about AI ethics at Google</a>
-```
 
 ### 5. Collaboration with AI Teams
 Working with AI often involves multidisciplinary teams, including data scientists, ML engineers, and domain experts. Be open to learning from others and contributing your software development expertise.
